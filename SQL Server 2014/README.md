@@ -11,7 +11,7 @@ Version: | Date Published:
 
 File Name: | File Size:
 -----------|----------
-SQLServer2014MP.msi | 2.7 MB
+[SQLServer2014MP.msi](https://raw.githubusercontent.com/rahsing/TestMP_Repository/master/SQL%20Server%202014/SQLServer2014MP.msi ) | 2.7 MB
 SQLServer2014MPGuide.docx | 632KB
 SQLServerDashboards.docx | 2.9MB
 
